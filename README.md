@@ -1,4 +1,5 @@
-![](assets/banner.png)
+![](https://cto.ai/static/oss-banner.png)
+
 # Query-ES Op 🚀
 
 The Query ElasticSearch Op is designed to allow users to conveniently make queries to an ElasticSearch cloud.
